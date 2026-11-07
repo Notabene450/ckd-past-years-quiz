@@ -1,2 +1,5 @@
-# ckd-past-years-quiz
-Chronic Kidney Disease · Past Years · Quiz
+# Chronic Kidney Disease · Past Years · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
